@@ -1,0 +1,2 @@
+from multilayer_perceptron.neuron_connection_creators.connection_list_creator import NeuronConnectionListCreator
+from multilayer_perceptron.neuron_connection_creators.unique_connection_creator import UniqueConnectionCreator
